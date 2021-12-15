@@ -1,0 +1,15 @@
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfo.cs
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\bin\Debug\net6.0\Desafio.exe
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\bin\Debug\net6.0\Desafio.deps.json
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\bin\Debug\net6.0\Desafio.runtimeconfig.json
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\bin\Debug\net6.0\Desafio.dll
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\bin\Debug\net6.0\ref\Desafio.dll
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\bin\Debug\net6.0\Desafio.pdb
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.dll
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\ref\Desafio.dll
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.pdb
+C:\Users\nsiala.mbiyavanga\Estudos\Desafio\Desafio\obj\Debug\net6.0\Desafio.genruntimeconfig.cache
